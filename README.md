@@ -20,16 +20,16 @@ Over the years though, a combination of competing deadlines, large batches of ma
 ### Digital Public Goods Library
 In partnership with the Institute for the Study of Knowledge Management in Education, the Internet Archive, the Data Rescue Project, and the American Association of Colleges & Universities, the [Digital Public Goods Library](https://digitalpubligoodslibrary.org) was created to ensure that public domain and openly licensed educational content resource collections are preserved, regenerated, and available to all educators who wish to adopt and adapt them.
 
-Over time, shifting priorities and budgetary constraints of digital libraries containing educational resources in the U.S. and around the world have resulted in the disappearance of a huge amount of high-quality public domain and openly licensed educational materials. Working with other collection partners and archives, the goal of this library is to ensure that these resources are in circulation for educators, researchers, and librarians in K-12 and higher education.
+Over time, shifting priorities and budgetary constraints of digital libraries containing educational resources in the U.S. and around the world have resulted in the disappearance of a huge amount of high-quality public domain and openly licensed educational materials. Working with other collection partners and archives, the goal of this library is to ensure that these resources are in circulation for educators, researchers, and librarians in K-12 and higher education. 
 
-The Digital Public Goods Library is committed to serve as an exemplary steward of public domain and openly licensed educational content to ensure that resource collections are preserved, regenerated, and available to all educators who wish to adopt and adapt them.
+Many resources in DPGL were brought in in a way that prioritized speed over quality, since the primary goal was to ensure that resources' contents were preserved before access was lost. Now, we'd love help reviewing and cleaning these resources -- mostly formatting, but also enriching metadata where appropriate.
 
 ## Who are you looking for?
 We welcome interest from anyone, but we're especially keen to hear from e.g.:
 - Past, present or future librarians
 - Teachers/educators (prek to higher education)
 - Curriculum designers
-- LIS students (we have 4 MLIS/MIS holders on staff and are _always_ happy to discuss supervised education opportunities: think mentorship, independent/directed studies, internships, etc) 
+- LIS students (we have 4 MLIS/MIS holders on staff and are _always_ happy to discuss supervised education opportunities: think mentorship, independent/directed studies, internships, etc)
 
 ## How to find volunteer opportunities
 1. Check out the [list of issues](https://github.com/iskme-peter/volunteer-board/issues) that we'd like help with.
