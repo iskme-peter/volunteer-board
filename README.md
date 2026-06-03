@@ -1,5 +1,7 @@
 # ISKME Volunteer Board 
 
+Here before? Skip the description and browse our [available volunteer opportunities](https://github.com/iskme-peter/volunteer-board/issues), updated daily.
+
 ## Help us make education more just, equitable, and participatory!
 
 ISKME’s mission is to make learning and knowledge sharing more participatory, equitable, and open. As an independent 501(c)(3) nonprofit established in 2002, ISKME’s research, library services, and trainings, enable schools, colleges, universities, and the organizations that support them to expand their capacity to collect and share information, and create knowledge-driven environments focused on learning and success.
