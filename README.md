@@ -10,7 +10,7 @@ One of the ways this happens is by our operation of [OER Commons](https://www.oe
 
 Anyone can sign up for a free account to use tools like Open Author, create groups within OER Commons to work collaboratively with your team to curate or remix content, or to save resources to your personal profile.
 
-## How can I help? What kinds of opportunities are available?
+## Q: How can I help? What kinds of opportunities are available?
 
 ### OER Commons
 OER Commons has been cataloging and sharing OER since 2007, with a collection of over 100,000 resources (and more are added daily). Two of ISKME's three staff librarians are responsible for reviewing and enriching the metadata of every resource added, and work hard to make sure that the time between when someone submits a resource to the collection and when it's published to be findable is no more than a day or two. 
@@ -24,14 +24,14 @@ Over time, shifting priorities and budgetary constraints of digital libraries co
 
 Many resources in DPGL were brought in in a way that prioritized speed over quality, since the primary goal was to ensure that resources' contents were preserved before access was lost. Now, we'd love help reviewing and cleaning these resources -- mostly formatting, but also enriching metadata where appropriate.
 
-## Who are you looking for?
+## Q: Who are you looking for?
 We welcome interest from anyone, but we're especially keen to hear from e.g.:
 - Past, present or future librarians
 - Teachers/educators (prek to higher education)
 - Curriculum designers
 - LIS students (we have 4 MLIS/MIS holders on staff and are _always_ happy to discuss supervised education opportunities: think mentorship, independent/directed studies, internships, etc)
 
-## How to find volunteer opportunities
+## Q: How do I find the volunteer opportunities?
 1. Check out the [list of issues](https://github.com/iskme-peter/volunteer-board/issues) that we'd like help with.
 2. Click on any issue to find out more about that specific ask. This will include a general summary of what the task is, how long we think it might take, and other pertinent info.
 3. If it sounds like something that you're interested in, leave a comment or reach out to us at info at iskme dot org to let us know! We'll get back to you ASAP.
