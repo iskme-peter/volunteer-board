@@ -27,7 +27,7 @@ Many resources in DPGL were brought in in a way that prioritized speed over qual
 ## Q: Who are you looking for?
 We welcome interest from anyone, but we're especially keen to hear from e.g.:
 - Past, present or future librarians
-- Teachers/educators (prek to higher education)
+- Teachers/educators (pre-k to higher education)
 - Curriculum designers
 - LIS students (we have 4 MLIS/MIS holders on staff and are _always_ happy to discuss supervised education opportunities: think mentorship, independent/directed studies, internships, etc)
 
