@@ -1,6 +1,6 @@
 # ISKME Volunteer Board 
 
-Here before? Skip the description and browse our [available volunteer opportunities](https://github.com/iskme-peter/volunteer-board/issues), updated daily.
+**Here before? Skip the description and browse our [available volunteer opportunities](https://github.com/iskme-peter/volunteer-board/issues), updated daily.**
 
 ## Help us make education more just, equitable, and participatory!
 
