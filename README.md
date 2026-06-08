@@ -1,4 +1,4 @@
-# ISKME Volunteer Board 
+# Digital Public Goods Library Volunteer Board 
 
 **Here before? Skip the description and browse our [available volunteer opportunities](https://github.com/iskme-peter/volunteer-board/issues), updated daily.**
 
@@ -11,13 +11,6 @@ One of the ways this happens is by our operation of [OER Commons](https://www.oe
 Anyone can sign up for a free account to use tools like Open Author, create groups within OER Commons to work collaboratively with your team to curate or remix content, or to save resources to your personal profile.
 
 ## Q: How can I help? What kinds of opportunities are available?
-
-### OER Commons
-OER Commons has been cataloging and sharing OER since 2007, with a collection of over 100,000 resources (and more are added daily). Two of ISKME's three staff librarians are responsible for reviewing and enriching the metadata of every resource added, and work hard to make sure that the time between when someone submits a resource to the collection and when it's published to be findable is no more than a day or two. 
-
-Over the years though, a combination of competing deadlines, large batches of materials brought in at once, changes in technology or standards, etc... have meant that parts of the collection could use some TLC, have gotten a little musty and may not be so relevant, or could use some general help. We think this is a great chance for folks with interest or expertise in metadata who are looking for a way to give back. 
-
-### Digital Public Goods Library
 In partnership with the Institute for the Study of Knowledge Management in Education, the Internet Archive, the Data Rescue Project, and the American Association of Colleges & Universities, the [Digital Public Goods Library](https://digitalpubligoodslibrary.org) was created to ensure that public domain and openly licensed educational content resource collections are preserved, regenerated, and available to all educators who wish to adopt and adapt them.
 
 Over time, shifting priorities and budgetary constraints of digital libraries containing educational resources in the U.S. and around the world have resulted in the disappearance of a huge amount of high-quality public domain and openly licensed educational materials. Working with other collection partners and archives, the goal of this library is to ensure that these resources are in circulation for educators, researchers, and librarians in K-12 and higher education. 
