@@ -2,9 +2,9 @@
 
 **Here before? Skip the description and browse our [available volunteer opportunities](https://github.com/iskme-peter/volunteer-board/issues), updated daily.**
 
-## Help us make education more just, equitable, and participatory!
+## Help us make education more participatory and Open for all!
 
-ISKME’s mission is to make learning and knowledge sharing more participatory, equitable, and open. As an independent 501(c)(3) nonprofit established in 2002, ISKME’s research, library services, and trainings, enable schools, colleges, universities, and the organizations that support them to expand their capacity to collect and share information, and create knowledge-driven environments focused on learning and success.
+ISKME's mission is to make learning and knowledge-sharing participatory and open for all. As an independent 501(c)(3) nonprofit established in 2002, ISKME’s research, library services, and trainings, enable schools, colleges, universities, and the organizations that support them to expand their capacity to collect and share information, and create knowledge-driven environments focused on learning and success.
 
 One of the ways this happens is by our operation of [OER Commons](https://www.oercommons.org), a digital public library of openly licensed educational resources that's **free, for everyone, forever.** Every day, thousands of K-12 and higher education educators, librarians, and home schooling parents browse, search, and discover resources on OER Commons that educators have created over time, across all subject areas—just as you would by walking into your local public library. 
 
